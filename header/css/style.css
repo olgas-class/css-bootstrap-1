@@ -1,0 +1,19 @@
+/* COMMON */
+img {
+    max-width: 100%;
+}
+
+/* HEADER */
+header {
+    height: 80px;
+    line-height: 80px;
+    background-color: gray;
+}
+
+header .menu ul {
+    list-style-type: none;
+}
+
+header .menu li {
+    margin: 0 1rem
+}
